@@ -1,0 +1,12 @@
+
+TP5/\.vs/
+
+TP5/Debug/
+
+TP5/Ejercicio-1/Debug/
+
+TP5/Ejercicio-1/Release/
+
+*.db
+
+TP5/Libs/nana/bin/nana_v140_Release_x86\.lib
